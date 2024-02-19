@@ -2,6 +2,7 @@
 This Python program leverages the Windscribe API and CLI software to create and manage multiple VPN tunnels automatically. Users can specify the duration of each tunnel, and the program will cycle through them accordingly.
 
 <h3>Requirements:</h3>
+
 1. Python 3
 2. Windscribe CLI V1.4.51 (Include in Rasporitiary)
 
