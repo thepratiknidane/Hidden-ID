@@ -9,9 +9,9 @@ This Python program leverages the Windscribe API and CLI software to create and 
 
 	git clone https://github.com/thepratiknidane/Hidden-ID.git
  
-		cd Hidden-ID
+	cd Hidden-ID
  
-			sudo dpkg -i windscribe-cli_1.4-51_amd64.deb
+	sudo dpkg -i windscribe-cli_1.4-51_amd64.deb
 
 Set up Windscribe credentials in the **config.py** mannually.
 
