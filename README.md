@@ -13,7 +13,8 @@ This Python program leverages the Windscribe API and CLI software to create and 
  
 	sudo dpkg -i windscribe-cli_1.4-51_amd64.deb
 
-Set up Windscribe credentials in the config.py
+Set up Windscribe credentials in the **config.py**
+
 To get help to use windscribe cli version
 
 	windscribe --help
