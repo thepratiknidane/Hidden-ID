@@ -24,6 +24,8 @@ To get help to use windscribe cli version
 
 	windscribe --help
 
+<h4>Note: This Program only Design for Linux/Ubuntu Users</h4>
+
 <h3>Contributing</h3>
 Thanks to @Aero25x
 
